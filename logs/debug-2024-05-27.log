@@ -1,0 +1,29 @@
+2024-05-27 16:51:12 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:51:12 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:51:14 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/cicflowmeter-4 (Is a directory)
+2024-05-27 16:51:14 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/logs (Is a directory)
+2024-05-27 16:53:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:53:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:53:04 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/cicflowmeter-4 (Is a directory)
+2024-05-27 16:53:04 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/logs (Is a directory)
+2024-05-27 16:56:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:56:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:56:29 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/cicflowmeter-4 (Is a directory)
+2024-05-27 16:56:29 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/logs (Is a directory)
+2024-05-27 16:58:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:58:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/youmna/Documents/study/M2/S4/PFE/code/detection-app
+2024-05-27 16:58:19 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/cicflowmeter-4 (Is a directory)
+2024-05-27 16:58:19 DEBUG swing.common.SwingUtils    /home/youmna/Documents/study/M2/S4/PFE/code/detection-app/logs (Is a directory)
+2024-05-27 16:59:23 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> detection-app
+2024-05-27 17:00:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:00:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
+2024-05-27 17:12:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:12:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
+2024-05-27 17:17:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:17:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
+2024-05-27 17:29:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:29:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
+2024-05-27 17:31:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:31:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
+2024-05-27 17:31:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: pcaps
+2024-05-27 17:31:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: pcaps
